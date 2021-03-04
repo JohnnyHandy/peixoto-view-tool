@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Various view specific methods for applications that I use and also for training."
   spec.description   = "Various view specific methods for applications that I use and also for training."
-  spec.homepage      = "https://github.com/JohnnyHandy/peixoto_view_tool/tree/master/peixoto_view_tool"
+  spec.homepage      = "https://github.com/JohnnyHandy/peixoto-view-tool"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/JohnnyHandy/peixoto_view_tool/tree/master/peixoto_view_tool"
-  spec.metadata["changelog_uri"] = "https://github.com/JohnnyHandy/peixoto_view_tool/tree/master/peixoto_view_tool"
+  spec.metadata["source_code_uri"] = "https://github.com/JohnnyHandy/peixoto-view-tool"
+  spec.metadata["changelog_uri"] = "https://github.com/JohnnyHandy/peixoto-view-tool"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
